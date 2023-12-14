@@ -1,0 +1,1 @@
+print('toll'*3)
